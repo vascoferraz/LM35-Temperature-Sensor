@@ -1,6 +1,6 @@
 # LM35-Temperature-Sensor
 
-emperature sensors are widely used in domestic and industrial applications such as: refrigerators; ovens; HVAC environmental control; in the automotive industry to monitor air intake, coolant or cylinder head temperatures. Even your television has a temperature sensor to shut it down if the internal temperature rises above a certain limit.
+Temperature sensors are widely used in domestic and industrial applications such as: refrigerators; ovens; HVAC environmental control; in the automotive industry to monitor air intake, coolant or cylinder head temperatures. Even your television has a temperature sensor to shut it down if the internal temperature rises above a certain limit.
 
 The goal of these sensors is to measure heat and ensure that a process is either: staying within a certain range, providing safe use of that application, or meeting a mandatory condition when dealing with extreme heat, hazards, or inaccessible measuring points.
 
@@ -8,9 +8,9 @@ For this project I used a LM35CAZ temperature sensor from Texas Instruments [dat
 
 This is why I love working with this development tool. To build a thermometer you just need:
 
-– 1x Arduino Nano 3.0
-– 1x LM35 temperature sensor
-– Breadboard and wires
+- 1x Arduino Nano 3.0
+- 1x LM35 temperature sensor
+- Breadboard and wires
 
 Now you have to replicate the circuit below:<br/>
 <br/>
