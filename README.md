@@ -8,8 +8,8 @@ For this project, I used an LM35CAZ temperature sensor from Texas Instruments [d
 
 This is why I love working with this development tool. To build a thermometer you just need:
 
-- 1x Arduino Nano 3.0
-- 1x LM35 temperature sensor
+- Arduino Nano 3.0
+- LM35 temperature sensor
 - Breadboard and wires
 
 Now you have to replicate the circuit below:
